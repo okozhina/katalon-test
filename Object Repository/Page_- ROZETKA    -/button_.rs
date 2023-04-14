@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>27c58bd8-3d9f-454e-b413-79338d313079</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Монітори'])[1]/following::button[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button_color_green.button_size_medium.search-form__submit.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3ced9122-f996-4b72-bd83-f5eeea577ccc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button_color_green button_size_medium search-form__submit ng-star-inserted</value>
+      <webElementGuid>f78f8cc4-5eb1-4041-b13b-daac0fb0bd11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Знайти </value>
+      <webElementGuid>19c21771-09c4-41cb-956b-23c64277cbe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;wrapper central-wrapper js-wrapper ng-star-inserted&quot;]/div[1]/rz-header[@class=&quot;app-header ng-star-inserted&quot;]/rz-main-header[@class=&quot;header--thin ng-star-inserted&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;layout&quot;]/div[@class=&quot;header-layout&quot;]/div[@class=&quot;header-search js-app-search-suggest&quot;]/form[@class=&quot;search-form ng-valid ng-touched ng-dirty search-form_state_unfolded&quot;]/button[@class=&quot;button button_color_green button_size_medium search-form__submit ng-star-inserted&quot;]</value>
+      <webElementGuid>783a520b-6dd3-4acb-9b35-e45a4eed27d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Монітори'])[1]/following::button[1]</value>
+      <webElementGuid>22e25f3d-ba99-4667-b13f-8896f4f2b719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RU'])[1]/preceding::button[1]</value>
+      <webElementGuid>e8874f43-2609-4cd3-92df-e7e6766f1e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UA'])[1]/preceding::button[1]</value>
+      <webElementGuid>175e0a17-af75-4df8-a60b-d29a5501121b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Знайти']/parent::*</value>
+      <webElementGuid>d944178d-2113-4b65-9b94-1ea7bca10207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>bb7628cd-d49e-4b23-ba68-8189d98b4a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Знайти ' or . = ' Знайти ')]</value>
+      <webElementGuid>39fa30ba-b681-4270-b994-007298e95f30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
